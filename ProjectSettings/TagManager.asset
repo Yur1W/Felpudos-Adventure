@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - Bullet
+  - Enemy
+  - Particles
+  - Fofura
+  - Uruca
+  - Carro
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Ground
+  - Water
+  - UI
+  - Player
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: 1Sky
+    uniqueID: 2904398779
+    locked: 0
+  - name: 2Buildings
+    uniqueID: 2223526211
+    locked: 0
+  - name: 3Clouds
+    uniqueID: 4081178683
+    locked: 0
+  - name: 4Houses
+    uniqueID: 3063445137
+    locked: 0
+  - name: Player
+    uniqueID: 2012698525
+    locked: 0
+  - name: 5Foreground
+    uniqueID: 54331483
+    locked: 0
