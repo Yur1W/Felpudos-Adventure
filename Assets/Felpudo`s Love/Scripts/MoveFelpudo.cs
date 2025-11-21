@@ -73,7 +73,7 @@ public class MoveFelpudo : MonoBehaviour
 		if (jumpInput && (GroundCheck() || BoxCheck()))
 		{
 			currentSpeed = jumpSpeed;
-			rb.linearVelocity = Vector2.up * jumpForce;
+			rb.velocity = Vector2.up * jumpForce;
 		}
 	}
     void OnCollisionEnter2D(Collision2D collision)
